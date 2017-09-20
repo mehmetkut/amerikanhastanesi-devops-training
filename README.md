@@ -1,1 +1,1 @@
-# Amerikan Hastanesi Training
+# Amerikan Hastanesi devOps Training
