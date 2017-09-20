@@ -1,2 +1,1 @@
-# amerikanhastanesi-devops-training
-Amerikan Hastanesi Training
+#Amerikan Hastanesi Training
